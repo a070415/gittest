@@ -11,19 +11,4 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
-    // sourcetree master
-
-    // sourcetree junn
-    // sourcetree junn2
-    // sourcetree junn3
-    // sourcetree junn4
-    // sourcetree junn5
-
-    // check 1
-    // check 2
-
-
-    // check 3
-    // check 4
 }
